@@ -6,6 +6,10 @@ This Website is finished under from the course "Building Modern Responsive Websi
 
 HTML5, CSS3, JavaScript, jQuery.
 
+## Live Preview
+
+https://tse-chikit.github.io/VESCO_HOME/
+
 ## License
 
 Irfan Dayan
